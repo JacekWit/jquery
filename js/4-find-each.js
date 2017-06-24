@@ -1,6 +1,6 @@
 "use strict";
 
-//Funckja document.ready() - wersja skrócona
+//Funkcja document.ready() - wersja skrócona
 $(function) {
 
 //Wybieranie elementu z kolekcji za pomocą metody eq()
